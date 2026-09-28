@@ -42,3 +42,6 @@ body{background:#f4f7fd}.nav{background:#f4f7fd;border-color:#ccd9ed}.hero{backg
 
 /* Keep anchored roles clear of the taller wrapped navigation on smaller screens. */
 @media(max-width:900px){.exp{scroll-margin-top:170px}}
+
+/* Responsive navigation is intentionally a solid two-row surface. */
+@media(max-width:900px){.nav{min-height:142px;height:142px;background:#fff!important;box-shadow:0 4px 16px rgba(28,43,70,.08);z-index:100}.nav .wrap{height:142px;min-height:142px;display:grid;grid-template-columns:1fr;grid-template-rows:72px 70px;gap:0;padding:0}.brand{align-self:center}.navlinks{width:100%;height:70px;display:flex;align-items:center;gap:22px;flex-wrap:nowrap;overflow-x:auto;white-space:nowrap;padding:0 2px;scrollbar-width:none}.navlinks::-webkit-scrollbar{display:none}.navlinks a{padding:24px 0 17px;flex:0 0 auto}.exp{scroll-margin-top:170px}}@media(max-width:560px){.nav{min-height:130px;height:130px}.nav .wrap{height:130px;min-height:130px;grid-template-rows:64px 66px}.brand:before{width:30px;height:27px;font-size:11px}.brand small{font-size:8px;letter-spacing:.12em}.navlinks{height:66px;gap:18px}.navlinks a{padding:21px 0 16px}.exp{scroll-margin-top:158px}}
