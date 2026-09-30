@@ -1,0 +1,44 @@
+/* Shared top-banner geometry across all pages.
+   The gradient is rendered on the same virtual canvas so the diagonal keeps
+   the same angle/scale even when individual headers have different heights. */
+.hero,
+.experience-hero,
+.resume-view-head {
+  background-image: linear-gradient(135deg,#fff 0%,#fff 58%,#e8f0fa 58.2%,#fff 100%) !important;
+  background-size: 100vw 390px !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Resume previously used a constrained header. Extend only its banner to the
+   viewport while keeping the existing content alignment and typography. */
+.resume-view-head {
+  position: relative;
+  left: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  padding-left: max(28px, calc((100vw - 1180px) / 2));
+  padding-right: max(28px, calc((100vw - 1180px) / 2));
+}
+
+/* Home now has five truthful industry labels, including Sofia's current
+   retail-pharmacy experience at Loblaw / Shoppers Drug Mart. */
+.trust-row { grid-template-columns: repeat(5,1fr); }
+
+@media (max-width: 900px) {
+  .hero,
+  .experience-hero,
+  .resume-view-head { background-size: 100vw 430px !important; }
+  .resume-view-head {
+    padding-left: max(15px, calc((100vw - 760px) / 2));
+    padding-right: max(15px, calc((100vw - 760px) / 2));
+  }
+}
+
+@media (max-width: 560px) {
+  .hero,
+  .experience-hero,
+  .resume-view-head { background-size: 100vw 520px !important; }
+  .trust-row { grid-template-columns: 1fr 1fr; }
+  .resume-view-head { padding-left: 12px; padding-right: 12px; }
+}
