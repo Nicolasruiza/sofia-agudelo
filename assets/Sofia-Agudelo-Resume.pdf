@@ -39,7 +39,7 @@ endobj
 endobj
 4 0 obj
 <<
-/Length 8106
+/Length 8098
 >>
 stream
 q
@@ -221,7 +221,7 @@ BT
 1 0 0 1 0 13.5 Tm
 11 TL
 0.356863 0.431373 0.533333 rg
-/F2+0 8.5 Tf
+/F2+0 7.8 Tf
 11 TL
 (PMO portfolio) Tj
 T*
@@ -237,7 +237,7 @@ BT
 1 0 0 1 0 13.5 Tm
 11 TL
 0.356863 0.431373 0.533333 rg
-/F2+0 8.5 Tf
+/F2+0 7.8 Tf
 11 TL
 (Latin America portfolio) Tj
 T*
@@ -253,7 +253,7 @@ BT
 1 0 0 1 0 13.5 Tm
 11 TL
 0.356863 0.431373 0.533333 rg
-/F2+0 8.5 Tf
+/F2+0 7.8 Tf
 11 TL
 (Recurring annual savings) Tj
 T*
@@ -526,7 +526,7 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1-0 12 Tf
+/F2+0 12 Tf
 14.4 TL
 ET
 1 1 1 rg
@@ -535,7 +535,7 @@ n
 f*
 0.32549 0.392157 0.494118 rg
 BT
-/F1-0 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 BT
@@ -545,7 +545,7 @@ T*
 ET
 BT
 1 0 0 1 107.3455 660.2 Tm
-<207f20> Tj
+( \001 ) Tj
 T*
 ET
 BT
@@ -555,7 +555,7 @@ T*
 ET
 BT
 1 0 0 1 227.136 660.2 Tm
-<207f20> Tj
+( \001 ) Tj
 T*
 ET
 BT
@@ -565,7 +565,7 @@ T*
 ET
 BT
 1 0 0 1 344.436 660.2 Tm
-<207f20> Tj
+( \001 ) Tj
 T*
 ET
 BT
@@ -581,7 +581,7 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1-1 12 Tf
+/F2+0 12 Tf
 14.4 TL
 ET
 0.105882 0.164706 0.294118 rg
@@ -590,7 +590,7 @@ n
 f*
 0.85098 0.890196 0.952941 rg
 BT
-/F1-1 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 BT
@@ -600,7 +600,7 @@ T*
 ET
 BT
 1 0 0 1 107.3455 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 BT
@@ -610,7 +610,7 @@ T*
 ET
 BT
 1 0 0 1 231.862 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 BT
@@ -620,7 +620,7 @@ T*
 ET
 BT
 1 0 0 1 353.888 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 BT
@@ -636,7 +636,7 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1-2 12 Tf
+/F2+0 12 Tf
 14.4 TL
 ET
 0.105882 0.164706 0.294118 rg
@@ -644,7 +644,7 @@ n
 62 654 500 17 re
 f*
 BT
-/F1-2 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 0.85098 0.890196 0.952941 rg
@@ -655,7 +655,7 @@ T*
 ET
 BT
 1 0 0 1 107.3455 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 BT
@@ -665,7 +665,7 @@ T*
 ET
 BT
 1 0 0 1 231.862 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 0.039216 0.403922 1 rg
@@ -683,7 +683,7 @@ h
 f*
 1 1 1 rg
 BT
-/F2 7 Tf
+/F3+0 7 Tf
 8.4 TL
 ET
 BT
@@ -693,7 +693,7 @@ T*
 ET
 0.85098 0.890196 0.952941 rg
 BT
-/F1-2 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 BT
@@ -703,12 +703,12 @@ T*
 ET
 0.85098 0.890196 0.952941 rg
 BT
-/F1-2 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 BT
 1 0 0 1 294.419 660.2 Tm
-<20207f2020> Tj
+(  \001  ) Tj
 T*
 ET
 0.039216 0.403922 1 rg
@@ -726,7 +726,7 @@ h
 f*
 1 1 1 rg
 BT
-/F2 7 Tf
+/F3+0 7 Tf
 8.4 TL
 ET
 BT
@@ -736,7 +736,7 @@ T*
 ET
 0.85098 0.890196 0.952941 rg
 BT
-/F1-2 8.5 Tf
+/F2+0 7.8 Tf
 10.2 TL
 ET
 BT
@@ -1184,49 +1184,99 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 7273
+/Length 7322
 >>
 stream
 q
 q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
 q
-.823529 .87451 .937255 RG
-n 43.2 30.96 m 568.8 30.96 l S
-.356863 .431373 .533333 rg
-BT 1 0 0 1 43.2 19.44 Tm /F2+0 8 Tf 9.6 TL (SOFIA AGUDELO  \001  PORTFOLIO FINANCIAL CONTROL) Tj T* ET
-BT 1 0 0 1 563.7102 19.44 Tm /F2+0 8 Tf 9.6 TL (2) Tj T* ET
+0.823529 0.87451 0.937255 RG
+n
+43.2 30.96 m
+568.8 30.96 l
+S
+0.356863 0.431373 0.533333 rg
+BT
+1 0 0 1 43.2 19.44 Tm
+/F2+0 8 Tf
+9.6 TL
+(SOFIA AGUDELO  \001  PORTFOLIO FINANCIAL CONTROL) Tj
+T*
+ET
+BT
+1 0 0 1 563.7102 19.44 Tm
+/F2+0 8 Tf
+9.6 TL
+(2) Tj
+T*
+ET
 Q
 q
 1 0 0 1 49.2 733.4 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3 Tm /F3+0 10 Tf 13 TL (EARLIER EXPERIENCE) Tj T* ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 10 Tf
+13 TL
+(EARLIER EXPERIENCE) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 43.2 686.4 cm
 q
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 0 22 cm
 q
-.086275 .168627 .301961 rg
-BT 1 0 0 1 0 3 Tm /F3+0 14 Tf 17 TL (Cimento) Tj T* ET
+0.086275 0.168627 0.301961 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 14 Tf
+17 TL
+(Cimento) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 0 8 cm
 q
-BT 1 0 0 1 0 3.8 Tm 14 TL .356863 .431373 .533333 rg /F2+0 10.2 Tf 14 TL (Financial & Operations Analyst) Tj T* ET
+BT
+1 0 0 1 0 3.8 Tm
+14 TL
+0.356863 0.431373 0.533333 rg
+/F2+0 10.2 Tf
+14 TL
+(Financial \046 Operations Analyst) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 403.2 26 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3.5 Tm 11.71201 0 Td /F3+0 9.5 Tf 13 TL (Mar 2015 - Sep 2016) Tj T* -11.71201 0 Td ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3.5 Tm
+11.71201 0 Td
+/F3+0 9.5 Tf
+13 TL
+(Mar 2015 \055 Sep 2016) Tj
+T*
+-11.71201 0 Td
+ET
 Q
 Q
 q
@@ -1236,13 +1286,35 @@ Q
 q
 1 0 0 1 49.2 658.4 cm
 q
-BT 1 0 0 1 12 18.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Turned budget and SAP data into a clearer foundation for investment decisions, expense management,) Tj T* 8 0 Td (and operational control.) Tj T* ET
+BT
+1 0 0 1 12 18.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Turned budget and SAP data into a clearer foundation for investment decisions\054 expense management\054) Tj
+T*
+8 0 Td
+(and operational control\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 49.2 639.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Prepared financial data for SAP migration, aligning Finance, Procurement, and Controlling.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Prepared financial data for SAP migration\054 aligning Finance\054 Procurement\054 and Controlling\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
@@ -1252,26 +1324,49 @@ q
 1 0 0 1 43.2 580.4 cm
 q
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 0 22 cm
 q
-.086275 .168627 .301961 rg
-BT 1 0 0 1 0 3 Tm /F3+0 14 Tf 17 TL (AIG) Tj T* ET
+0.086275 0.168627 0.301961 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 14 Tf
+17 TL
+(AIG) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 0 8 cm
 q
-.356863 .431373 .533333 rg
-BT 1 0 0 1 0 3.8 Tm /F2+0 10.2 Tf 14 TL (Senior Accountant) Tj T* ET
+0.356863 0.431373 0.533333 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F2+0 10.2 Tf
+14 TL
+(Senior Accountant) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 403.2 26 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3.5 Tm 12.65366 0 Td /F3+0 9.5 Tf 13 TL (Feb 2014 - Dec 2014) Tj T* -12.65366 0 Td ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3.5 Tm
+12.65366 0 Td
+/F3+0 9.5 Tf
+13 TL
+(Feb 2014 \055 Dec 2014) Tj
+T*
+-12.65366 0 Td
+ET
 Q
 Q
 q
@@ -1281,13 +1376,33 @@ Q
 q
 1 0 0 1 49.2 566.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Supported the transfer of financial consolidation from Ecuador to Colombia\002s Centre of Excellence.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Supported the transfer of financial consolidation from Ecuador to Colombia\002s Centre of Excellence\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
 1 0 0 1 49.2 547.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Automated technical-reserve reporting and consolidated financial statements with Excel macros.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Automated technical\055reserve reporting and consolidated financial statements with Excel macros\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
@@ -1297,26 +1412,49 @@ q
 1 0 0 1 43.2 488.4 cm
 q
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 0 22 cm
 q
-.086275 .168627 .301961 rg
-BT 1 0 0 1 0 3 Tm /F3+0 14 Tf 17 TL (American Airlines) Tj T* ET
+0.086275 0.168627 0.301961 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 14 Tf
+17 TL
+(American Airlines) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 0 8 cm
 q
-.356863 .431373 .533333 rg
-BT 1 0 0 1 0 3.8 Tm /F2+0 10.2 Tf 14 TL (Budget and Cost Analyst) Tj T* ET
+0.356863 0.431373 0.533333 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F2+0 10.2 Tf
+14 TL
+(Budget and Cost Analyst) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 403.2 26 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3.5 Tm 13.5814 0 Td /F3+0 9.5 Tf 13 TL (May 2013 - Jan 2014) Tj T* -13.5814 0 Td ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3.5 Tm
+13.5814 0 Td
+/F3+0 9.5 Tf
+13 TL
+(May 2013 \055 Jan 2014) Tj
+T*
+-13.5814 0 Td
+ET
 Q
 Q
 q
@@ -1326,13 +1464,35 @@ Q
 q
 1 0 0 1 49.2 474.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Owned forecasting for Colombia\002s USD 24.5M annual operating budget.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Owned forecasting for Colombia\002s USD 24\0565M annual operating budget\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
 1 0 0 1 49.2 441.4 cm
 q
-BT 1 0 0 1 12 18.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Delivered USD 180K in recurring annual savings through spend review, vendor negotiations, and new) Tj T* 8 0 Td (RFPs.) Tj T* ET
+BT
+1 0 0 1 12 18.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Delivered USD 180K in recurring annual savings through spend review\054 vendor negotiations\054 and new) Tj
+T*
+8 0 Td
+(RFPs\056) Tj
+T*
+ET
 Q
 Q
 q
@@ -1342,25 +1502,50 @@ q
 1 0 0 1 43.2 382.4 cm
 q
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 0 22 cm
 q
-.086275 .168627 .301961 rg
-BT 1 0 0 1 0 3 Tm /F3+0 14 Tf 17 TL (American Airlines) Tj T* ET
+0.086275 0.168627 0.301961 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 14 Tf
+17 TL
+(American Airlines) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 0 8 cm
 q
-BT 1 0 0 1 0 3.8 Tm 14 TL .356863 .431373 .533333 rg /F2+0 10.2 Tf 14 TL (Senior Account Analyst & Treasury) Tj T* ET
+BT
+1 0 0 1 0 3.8 Tm
+14 TL
+0.356863 0.431373 0.533333 rg
+/F2+0 10.2 Tf
+14 TL
+(Senior Account Analyst \046 Treasury) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 403.2 26 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3.5 Tm 9.740576 0 Td /F3+0 9.5 Tf 13 TL (Mar 2012 - May 2013) Tj T* -9.740576 0 Td ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3.5 Tm
+9.740576 0 Td
+/F3+0 9.5 Tf
+13 TL
+(Mar 2012 \055 May 2013) Tj
+T*
+-9.740576 0 Td
+ET
 Q
 Q
 q
@@ -1370,13 +1555,33 @@ Q
 q
 1 0 0 1 49.2 368.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Managed cash flow, budgeting, treasury, and foreign exchange across five Andean countries.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Managed cash flow\054 budgeting\054 treasury\054 and foreign exchange across five Andean countries\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
 1 0 0 1 49.2 349.4 cm
 q
-BT 1 0 0 1 12 4.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Improved cash-management and foreign-exchange returns by USD 20K per year.) Tj T* 8 0 Td ET
+BT
+1 0 0 1 12 4.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Improved cash\055management and foreign\055exchange returns by USD 20K per year\056) Tj
+T*
+8 0 Td
+ET
 Q
 Q
 q
@@ -1386,26 +1591,49 @@ q
 1 0 0 1 43.2 290.4 cm
 q
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 0 22 cm
 q
-.086275 .168627 .301961 rg
-BT 1 0 0 1 0 3 Tm /F3+0 14 Tf 17 TL (American Airlines) Tj T* ET
+0.086275 0.168627 0.301961 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 14 Tf
+17 TL
+(American Airlines) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 0 8 cm
 q
-.356863 .431373 .533333 rg
-BT 1 0 0 1 0 3.8 Tm /F2+0 10.2 Tf 14 TL (Accounting Analyst) Tj T* ET
+0.356863 0.431373 0.533333 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F2+0 10.2 Tf
+14 TL
+(Accounting Analyst) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 403.2 26 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3.5 Tm 13.54893 0 Td /F3+0 9.5 Tf 13 TL (Oct 2010 - Mar 2012) Tj T* -13.54893 0 Td ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3.5 Tm
+13.54893 0 Td
+/F3+0 9.5 Tf
+13 TL
+(Oct 2010 \055 Mar 2012) Tj
+T*
+-13.54893 0 Td
+ET
 Q
 Q
 q
@@ -1415,7 +1643,19 @@ Q
 q
 1 0 0 1 49.2 262.4 cm
 q
-BT 1 0 0 1 12 18.5 Tm -8 0 Td 14 TL .14902 .231373 .34902 rg /F2+0 9.5 Tf 14 TL (\001 Managed receivables, account analysis, and ticket adjustments; automated SAP-to-Excel tax reporting) Tj T* 8 0 Td (and income reconciliation.) Tj T* ET
+BT
+1 0 0 1 12 18.5 Tm
+-8 0 Td
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.5 Tf
+14 TL
+(\001 Managed receivables\054 account analysis\054 and ticket adjustments\073 automated SAP\055to\055Excel tax reporting) Tj
+T*
+8 0 Td
+(and income reconciliation\056) Tj
+T*
+ET
 Q
 Q
 q
@@ -1424,32 +1664,69 @@ Q
 q
 1 0 0 1 49.2 211.4 cm
 q
-.207843 .34902 .552941 rg
-BT 1 0 0 1 0 3 Tm /F3+0 10 Tf 13 TL (CAPABILITIES) Tj T* ET
+0.207843 0.34902 0.552941 rg
+BT
+1 0 0 1 0 3 Tm
+/F3+0 10 Tf
+13 TL
+(CAPABILITIES) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 49.2 161.4 cm
 q
-BT 1 0 0 1 0 32.8 Tm 14 TL .14902 .231373 .34902 rg /F2+0 9.2 Tf 14 TL (Portfolio & PMO Portfolio financial control \003 Budgeting \003 Forecasting \003 Variance analysis \003 Executive reporting) Tj  T* (Financial operations Treasury \003 Financial reporting \003 Contract management \003 Compliance \003 SAP FI) Tj  T* (Tools Excel and macros \003 SAP FI \003 Clarity \003 ServiceNow \003 SmartStream \003 Fieldglass \003 MS Project) Tj T* ET
+BT
+1 0 0 1 0 32.8 Tm
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.2 Tf
+14 TL
+(Portfolio \046 PMO Portfolio financial control \003 Budgeting \003 Forecasting \003 Variance analysis \003 Executive reporting) Tj
+T*
+(Financial operations Treasury \003 Financial reporting \003 Contract management \003 Compliance \003 SAP FI) Tj
+T*
+(Tools Excel and macros \003 SAP FI \003 Clarity \003 ServiceNow \003 SmartStream \003 Fieldglass \003 MS Project) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 49.2 130.4 cm
 q
-BT 1 0 0 1 0 3 Tm 13 TL .207843 .34902 .552941 rg /F3+0 10 Tf 13 TL (EDUCATION & CERTIFICATIONS) Tj T* ET
+BT
+1 0 0 1 0 3 Tm
+13 TL
+0.207843 0.34902 0.552941 rg
+/F3+0 10 Tf
+13 TL
+(EDUCATION \046 CERTIFICATIONS) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 49.2 66.4 cm
 q
-BT 1 0 0 1 0 46.8 Tm 14 TL .14902 .231373 .34902 rg /F2+0 9.2 Tf 14 TL (Project Management Certificate \004 Centennial College \(2017\)) Tj  T* (Bachelor of Accounting \004 Universidad Externado de Colombia \(2013\)) Tj  T* (Finance Certificate \004 Universidad del Rosario \(2016\) \003 SAP FI Certification \004 SAP Certified Application) Tj T* (Associate \(2014\)) Tj T* ET
+BT
+1 0 0 1 0 46.8 Tm
+14 TL
+0.14902 0.231373 0.34902 rg
+/F2+0 9.2 Tf
+14 TL
+(Project Management Certificate \004 Centennial College \0502017\051) Tj
+T*
+(Bachelor of Accounting \004 Universidad Externado de Colombia \0502013\051) Tj
+T*
+(Finance Certificate \004 Universidad del Rosario \0502016\051 \003 SAP FI Certification \004 SAP Certified Application) Tj
+T*
+(Associate \0502014\051) Tj
+T*
+ET
 Q
 Q
- 
-
 Q
-
 q
 0.0 0.0 612 792 re
 W
@@ -1464,7 +1741,7 @@ BT
 1 0 0 1 46 67 Tm
 /F2+0-0 9 Tf
 10.8 TL
-(LANGUAGES) Tj
+() Tj
 T*
 ET
 0.14902 0.231373 0.34902 rg
@@ -1472,14 +1749,11 @@ BT
 1 0 0 1 46 53 Tm
 /F3+0-0 8.5 Tf
 10.2 TL
-(English \001 Full Professional  \002  Spanish \001 Native or Bilingual) Tj
+() Tj
 T*
 ET
 Q
-
-
 Q
-
 q
 0.0 0.0 612 792 re
 W
@@ -1521,7 +1795,7 @@ BT
 1 0 0 1 46 82 Tm
 /F2+0-1 9 Tf
 10.8 TL
-(LANGUAGES) Tj
+() Tj
 T*
 ET
 0.14902 0.231373 0.34902 rg
@@ -1529,11 +1803,10 @@ BT
 1 0 0 1 46 67 Tm
 /F3+0-1 8.5 Tf
 10.2 TL
-(English \001 Full Professional  \002  Spanish \001 Native or Bilingual) Tj
+() Tj
 T*
 ET
 Q
-
 
 endstream
 endobj
@@ -2067,49 +2340,49 @@ xref
 0000000064 00000 n 
 0000000130 00000 n 
 0000000476 00000 n 
-0000008634 00000 n 
-0000008741 00000 n 
-0000008848 00000 n 
-0000008955 00000 n 
-0000009062 00000 n 
-0000009174 00000 n 
-0000010470 00000 n 
-0000010726 00000 n 
-0000029585 00000 n 
-0000030350 00000 n 
-0000031665 00000 n 
-0000031932 00000 n 
-0000050199 00000 n 
-0000050953 00000 n 
-0000051144 00000 n 
-0000051358 00000 n 
-0000051538 00000 n 
-0000051729 00000 n 
-0000051943 00000 n 
-0000052124 00000 n 
-0000052315 00000 n 
-0000052529 00000 n 
-0000052710 00000 n 
-0000053035 00000 n 
-0000060361 00000 n 
-0000060469 00000 n 
-0000060577 00000 n 
-0000061892 00000 n 
-0000062159 00000 n 
-0000080426 00000 n 
-0000081180 00000 n 
-0000082495 00000 n 
-0000082762 00000 n 
-0000101029 00000 n 
-0000101783 00000 n 
-0000103079 00000 n 
-0000103335 00000 n 
-0000122093 00000 n 
-0000122852 00000 n 
-0000124148 00000 n 
-0000124404 00000 n 
-0000143162 00000 n 
-0000143921 00000 n 
+0000008626 00000 n 
+0000008733 00000 n 
+0000008840 00000 n 
+0000008947 00000 n 
+0000009054 00000 n 
+0000009166 00000 n 
+0000010462 00000 n 
+0000010718 00000 n 
+0000029577 00000 n 
+0000030342 00000 n 
+0000031657 00000 n 
+0000031924 00000 n 
+0000050191 00000 n 
+0000050945 00000 n 
+0000051136 00000 n 
+0000051350 00000 n 
+0000051530 00000 n 
+0000051721 00000 n 
+0000051935 00000 n 
+0000052116 00000 n 
+0000052307 00000 n 
+0000052521 00000 n 
+0000052702 00000 n 
+0000053027 00000 n 
+0000060402 00000 n 
+0000060510 00000 n 
+0000060618 00000 n 
+0000061933 00000 n 
+0000062200 00000 n 
+0000080467 00000 n 
+0000081221 00000 n 
+0000082536 00000 n 
+0000082803 00000 n 
+0000101070 00000 n 
+0000101824 00000 n 
+0000103120 00000 n 
+0000103376 00000 n 
+0000122134 00000 n 
+0000122893 00000 n 
+0000124189 00000 n 
+0000124445 00000 n 
+0000143203 00000 n 
+0000143962 00000 n 
 trailer
 <<
 /Size 48
@@ -2117,5 +2390,5 @@ trailer
 /Info 47 0 R
 >>
 startxref
-143961
+144002
 %%EOF
