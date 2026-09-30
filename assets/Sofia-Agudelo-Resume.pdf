@@ -1184,7 +1184,7 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 7322
+/Length 8064
 >>
 stream
 q
@@ -1669,7 +1669,7 @@ BT
 1 0 0 1 0 3 Tm
 /F3+0 10 Tf
 13 TL
-(CAPABILITIES) Tj
+() Tj
 T*
 ET
 Q
@@ -1683,11 +1683,11 @@ BT
 0.14902 0.231373 0.34902 rg
 /F2+0 9.2 Tf
 14 TL
-(Portfolio \046 PMO Portfolio financial control \003 Budgeting \003 Forecasting \003 Variance analysis \003 Executive reporting) Tj
+() Tj
 T*
-(Financial operations Treasury \003 Financial reporting \003 Contract management \003 Compliance \003 SAP FI) Tj
+() Tj
 T*
-(Tools Excel and macros \003 SAP FI \003 Clarity \003 ServiceNow \003 SmartStream \003 Fieldglass \003 MS Project) Tj
+() Tj
 T*
 ET
 Q
@@ -1701,7 +1701,7 @@ BT
 0.207843 0.34902 0.552941 rg
 /F3+0 10 Tf
 13 TL
-(EDUCATION \046 CERTIFICATIONS) Tj
+() Tj
 T*
 ET
 Q
@@ -1715,13 +1715,13 @@ BT
 0.14902 0.231373 0.34902 rg
 /F2+0 9.2 Tf
 14 TL
-(Project Management Certificate \004 Centennial College \0502017\051) Tj
+() Tj
 T*
-(Bachelor of Accounting \004 Universidad Externado de Colombia \0502013\051) Tj
+() Tj
 T*
-(Finance Certificate \004 Universidad del Rosario \0502016\051 \003 SAP FI Certification \004 SAP Certified Application) Tj
+() Tj
 T*
-(Associate \0502014\051) Tj
+() Tj
 T*
 ET
 Q
@@ -1772,7 +1772,7 @@ BT
 1 0 0 1 46 134 Tm
 /F2+0-1 9 Tf
 10.8 TL
-(EDUCATION \046 CERTIFICATIONS) Tj
+() Tj
 T*
 ET
 0.14902 0.231373 0.34902 rg
@@ -1780,14 +1780,14 @@ BT
 1 0 0 1 46 118 Tm
 /F3+0-1 8.2 Tf
 9.84 TL
-(Project Management Certificate \001 Centennial College \0502017\051  \002  Bachelor of Accounting \001 Universidad Externado de Colombia \0502013\051) Tj
+() Tj
 T*
 ET
 BT
 1 0 0 1 46 103 Tm
 /F3+0-1 8.2 Tf
 9.84 TL
-(Finance Certificate \001 Universidad del Rosario \0502016\051  \002  SAP FI Certification \001 SAP Certified Application Associate \0502014\051) Tj
+() Tj
 T*
 ET
 0.207843 0.34902 0.552941 rg
@@ -1805,6 +1805,95 @@ BT
 10.2 TL
 () Tj
 T*
+ET
+Q
+q
+1 1 1 rg
+43 43 526 210 re
+f
+0.207843 0.34902 0.552941 rg
+BT
+/F3+0 10 Tf
+1 0.0 0.0 1 49.2 241 Tm
+(CAPABILITIES) Tj
+ET
+0.207843 0.34902 0.552941 rg
+BT
+/F3+0 9.2 Tf
+1 0.0 0.0 1 49.2 220 Tm
+(Portfolio \046 PMO) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 168 220 Tm
+(Financial control \003 Budgeting \003 Forecasting \003 Variance analysis) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 168 206 Tm
+(Executive reporting) Tj
+ET
+0.207843 0.34902 0.552941 rg
+BT
+/F3+0 9.2 Tf
+1 0.0 0.0 1 49.2 187 Tm
+(Financial operations) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 168 187 Tm
+(Treasury \003 Financial reporting \003 Contract management \003 Compliance) Tj
+ET
+0.207843 0.34902 0.552941 rg
+BT
+/F3+0 9.2 Tf
+1 0.0 0.0 1 49.2 168 Tm
+(Tools) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 168 168 Tm
+(Excel and macros \003 SAP FI \003 Clarity \003 ServiceNow \003 SmartStream) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 168 154 Tm
+(Fieldglass \003 MS Project) Tj
+ET
+0.207843 0.34902 0.552941 rg
+BT
+/F3+0 10 Tf
+1 0.0 0.0 1 49.2 125 Tm
+(EDUCATION \046 CERTIFICATIONS) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 49.2 105 Tm
+(Project Management Certificate \004 Centennial College \0502017\051) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 49.2 89 Tm
+(Bachelor of Accounting \004 Universidad Externado de Colombia \0502013\051) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 49.2 73 Tm
+(Finance Certificate \004 Universidad del Rosario \0502016\051) Tj
+ET
+0.14902 0.231373 0.34902 rg
+BT
+/F2+0 9.2 Tf
+1 0.0 0.0 1 49.2 57 Tm
+(SAP FI Certification \004 SAP Certified Application Associate \0502014\051) Tj
 ET
 Q
 
@@ -2364,25 +2453,25 @@ xref
 0000052521 00000 n 
 0000052702 00000 n 
 0000053027 00000 n 
-0000060402 00000 n 
-0000060510 00000 n 
-0000060618 00000 n 
-0000061933 00000 n 
-0000062200 00000 n 
-0000080467 00000 n 
-0000081221 00000 n 
-0000082536 00000 n 
-0000082803 00000 n 
-0000101070 00000 n 
-0000101824 00000 n 
-0000103120 00000 n 
-0000103376 00000 n 
-0000122134 00000 n 
-0000122893 00000 n 
-0000124189 00000 n 
-0000124445 00000 n 
-0000143203 00000 n 
-0000143962 00000 n 
+0000061144 00000 n 
+0000061252 00000 n 
+0000061360 00000 n 
+0000062675 00000 n 
+0000062942 00000 n 
+0000081209 00000 n 
+0000081963 00000 n 
+0000083278 00000 n 
+0000083545 00000 n 
+0000101812 00000 n 
+0000102566 00000 n 
+0000103862 00000 n 
+0000104118 00000 n 
+0000122876 00000 n 
+0000123635 00000 n 
+0000124931 00000 n 
+0000125187 00000 n 
+0000143945 00000 n 
+0000144704 00000 n 
 trailer
 <<
 /Size 48
@@ -2390,5 +2479,5 @@ trailer
 /Info 47 0 R
 >>
 startxref
-144002
+144744
 %%EOF
